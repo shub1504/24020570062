@@ -1,0 +1,23 @@
+{
+  "url": "https://brandstorm.loreal.com/en/challenges/india/community",
+  "https": true,
+  "headers": {
+    "Strict-Transport-Security": false,
+    "Content-Security-Policy": true,
+    "X-Frame-Options": true,
+    "X-Content-Type-Options": true,
+    "Referrer-Policy": true
+  },
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "secure": true,
+      "httponly": true
+    }
+  ],
+  "third_party_domains": [],
+  "trackers_found": [],
+  "forms": [],
+  "privacy_policy_link": false,
+  "cookie_banner_hint": false
+}

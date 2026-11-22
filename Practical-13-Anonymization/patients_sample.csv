@@ -1,0 +1,16 @@
+id,name,age,pincode,gender,condition
+1,Aarav,23,110001,M,Flu
+2,Diya,27,110002,F,Diabetes
+3,Kabir,25,110003,M,Asthma
+4,Meera,29,110001,F,Flu
+5,Zoya,24,110004,F,Flu
+6,Rohan,34,560001,M,Diabetes
+7,Sana,36,560002,F,Flu
+8,Vikram,38,560003,M,Asthma
+9,Isha,31,560001,F,Asthma
+10,Karan,33,560004,M,Flu
+11,Neha,52,110005,F,Cancer
+12,Arjun,55,110006,M,Cancer
+13,Tara,58,110007,F,Cancer
+14,Ira,53,110008,F,Cancer
+15,Dev,61,560005,M,Flu
